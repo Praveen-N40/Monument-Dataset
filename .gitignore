@@ -1,0 +1,8 @@
+# images are never committed (copyright remains with their owners)
+images/
+*.jpg
+*.jpeg
+*.png
+*.webp
+__pycache__/
+*.cache

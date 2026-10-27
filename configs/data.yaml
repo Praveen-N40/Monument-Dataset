@@ -1,0 +1,5 @@
+train: images/train
+val: images/val
+test: images/test
+nc: 36
+names: ["Auto", "Bag", "Balloon", "Bangle", "Banners", "Birds", "Building", "Camel", "Camera", "Charminar", "CottonCandy", "Cow", "Cycle", "Eatable", "Flowers", "Fruits", "Garments", "GatewayOfIndia", "Goat", "GreenPlants", "Idol", "Light", "MetalDetector", "Mobile", "Moon", "MysorePalace", "People", "PoliceBoard", "Scooters", "Shops", "Ship", "SittingTable", "Stick", "TajMahal", "Vessels", "Water"]

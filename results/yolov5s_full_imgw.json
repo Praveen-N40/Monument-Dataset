@@ -1,0 +1,356 @@
+{
+ "name": "yolov5s_full_imgw",
+ "val": {
+  "all": {
+   "images": 76,
+   "instances": 201,
+   "P": 0.794,
+   "R": 0.419,
+   "AP50": 0.472,
+   "AP5095": 0.272
+  },
+  "Auto": {
+   "images": 76,
+   "instances": 11,
+   "P": 0.682,
+   "R": 0.727,
+   "AP50": 0.756,
+   "AP5095": 0.264
+  },
+  "Bangle": {
+   "images": 76,
+   "instances": 5,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.0,
+   "AP5095": 0.0
+  },
+  "Banners": {
+   "images": 76,
+   "instances": 2,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.0,
+   "AP5095": 0.0
+  },
+  "Birds": {
+   "images": 76,
+   "instances": 2,
+   "P": 0.0,
+   "R": 0.0,
+   "AP50": 0.00335,
+   "AP5095": 0.000335
+  },
+  "Building": {
+   "images": 76,
+   "instances": 3,
+   "P": 0.725,
+   "R": 0.902,
+   "AP50": 0.913,
+   "AP5095": 0.294
+  },
+  "Charminar": {
+   "images": 76,
+   "instances": 27,
+   "P": 0.986,
+   "R": 0.963,
+   "AP50": 0.994,
+   "AP5095": 0.736
+  },
+  "Flowers": {
+   "images": 76,
+   "instances": 1,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.0,
+   "AP5095": 0.0
+  },
+  "GatewayOfIndia": {
+   "images": 76,
+   "instances": 21,
+   "P": 0.984,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.686
+  },
+  "Goat": {
+   "images": 76,
+   "instances": 1,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.0,
+   "AP5095": 0.0
+  },
+  "GreenPlants": {
+   "images": 76,
+   "instances": 23,
+   "P": 0.748,
+   "R": 0.435,
+   "AP50": 0.55,
+   "AP5095": 0.248
+  },
+  "Light": {
+   "images": 76,
+   "instances": 4,
+   "P": 0.409,
+   "R": 0.5,
+   "AP50": 0.414,
+   "AP5095": 0.158
+  },
+  "MetalDetector": {
+   "images": 76,
+   "instances": 1,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.0,
+   "AP5095": 0.0
+  },
+  "MysorePalace": {
+   "images": 76,
+   "instances": 11,
+   "P": 0.964,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.634
+  },
+  "People": {
+   "images": 76,
+   "instances": 61,
+   "P": 0.594,
+   "R": 0.607,
+   "AP50": 0.554,
+   "AP5095": 0.266
+  },
+  "Ship": {
+   "images": 76,
+   "instances": 5,
+   "P": 0.213,
+   "R": 0.4,
+   "AP50": 0.333,
+   "AP5095": 0.118
+  },
+  "SittingTable": {
+   "images": 76,
+   "instances": 1,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.995,
+   "AP5095": 0.796
+  },
+  "TajMahal": {
+   "images": 76,
+   "instances": 18,
+   "P": 0.978,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.696
+  },
+  "Water": {
+   "images": 76,
+   "instances": 4,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.00298,
+   "AP5095": 0.00168
+  }
+ },
+ "summary": {
+  "layers": 157,
+  "params": 7107217,
+  "gflops": 16.1
+ },
+ "test": {
+  "all": {
+   "images": 76,
+   "instances": 221,
+   "P": 0.555,
+   "R": 0.547,
+   "AP50": 0.553,
+   "AP5095": 0.284
+  },
+  "Auto": {
+   "images": 76,
+   "instances": 5,
+   "P": 0.425,
+   "R": 0.8,
+   "AP50": 0.667,
+   "AP5095": 0.302
+  },
+  "Banners": {
+   "images": 76,
+   "instances": 1,
+   "P": 0.0,
+   "R": 0.0,
+   "AP50": 0.0905,
+   "AP5095": 0.0452
+  },
+  "Birds": {
+   "images": 76,
+   "instances": 7,
+   "P": 0.0,
+   "R": 0.0,
+   "AP50": 0.0172,
+   "AP5095": 0.00377
+  },
+  "Building": {
+   "images": 76,
+   "instances": 6,
+   "P": 0.742,
+   "R": 0.667,
+   "AP50": 0.727,
+   "AP5095": 0.212
+  },
+  "Charminar": {
+   "images": 76,
+   "instances": 27,
+   "P": 0.968,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.718
+  },
+  "CottonCandy": {
+   "images": 76,
+   "instances": 1,
+   "P": 0.661,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.0995
+  },
+  "Cycle": {
+   "images": 76,
+   "instances": 1,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.0524,
+   "AP5095": 0.0262
+  },
+  "Fruits": {
+   "images": 76,
+   "instances": 4,
+   "P": 0.0,
+   "R": 0.0,
+   "AP50": 0.0,
+   "AP5095": 0.0
+  },
+  "GatewayOfIndia": {
+   "images": 76,
+   "instances": 21,
+   "P": 0.953,
+   "R": 0.977,
+   "AP50": 0.993,
+   "AP5095": 0.721
+  },
+  "GreenPlants": {
+   "images": 76,
+   "instances": 32,
+   "P": 0.534,
+   "R": 0.572,
+   "AP50": 0.538,
+   "AP5095": 0.245
+  },
+  "Idol": {
+   "images": 76,
+   "instances": 2,
+   "P": 1.0,
+   "R": 0.0,
+   "AP50": 0.00445,
+   "AP5095": 0.00356
+  },
+  "Light": {
+   "images": 76,
+   "instances": 3,
+   "P": 0.0,
+   "R": 0.0,
+   "AP50": 0.057,
+   "AP5095": 0.0285
+  },
+  "Moon": {
+   "images": 76,
+   "instances": 2,
+   "P": 0.653,
+   "R": 0.5,
+   "AP50": 0.606,
+   "AP5095": 0.231
+  },
+  "MysorePalace": {
+   "images": 76,
+   "instances": 11,
+   "P": 0.96,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.651
+  },
+  "People": {
+   "images": 76,
+   "instances": 63,
+   "P": 0.65,
+   "R": 0.794,
+   "AP50": 0.78,
+   "AP5095": 0.377
+  },
+  "Shops": {
+   "images": 76,
+   "instances": 1,
+   "P": 0.229,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.995
+  },
+  "Ship": {
+   "images": 76,
+   "instances": 8,
+   "P": 0.497,
+   "R": 0.741,
+   "AP50": 0.631,
+   "AP5095": 0.225
+  },
+  "SittingTable": {
+   "images": 76,
+   "instances": 1,
+   "P": 0.866,
+   "R": 1.0,
+   "AP50": 0.995,
+   "AP5095": 0.139
+  },
+  "TajMahal": {
+   "images": 76,
+   "instances": 17,
+   "P": 0.971,
+   "R": 0.882,
+   "AP50": 0.904,
+   "AP5095": 0.658
+  },
+  "Water": {
+   "images": 76,
+   "instances": 8,
+   "P": 0.0,
+   "R": 0.0,
+   "AP50": 0.0175,
+   "AP5095": 0.00432
+  }
+ },
+ "speed_gpu": {
+  "total": 15.668300038669258,
+  "fps": 63.82313317539278,
+  "method": "forward+NMS, batch 1, median of 100 after warm-up"
+ },
+ "speed_cpu": {
+  "total": 187.65994999557734,
+  "fps": 5.3287875224498755,
+  "method": "forward+NMS, batch 1, median of 30 after warm-up"
+ },
+ "speed_val_gpu": {
+  "pre": 0.2,
+  "inf": 30.9,
+  "nms": 7.4,
+  "total": 38.5,
+  "fps": 25.974025974025974
+ },
+ "speed_val_cpu": {
+  "pre": 0.5,
+  "inf": 178.4,
+  "nms": 4.0,
+  "total": 182.9,
+  "fps": 5.467468562055768
+ }
+}
